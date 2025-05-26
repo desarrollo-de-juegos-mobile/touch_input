@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.EnhancedTouch;
-using UnityEngine.InputSystem.iOS;
+//using UnityEngine.InputSystem.iOS;
 using UnityEngine.InputSystem.Layouts;
 using Touch = UnityEngine.InputSystem.EnhancedTouch.Touch;
 
