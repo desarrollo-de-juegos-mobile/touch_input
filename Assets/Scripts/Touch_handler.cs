@@ -79,6 +79,7 @@ public class Touch_handler : MonoBehaviour
         if( previousOrientation != Screen.orientation)
         {
             OrientationChanged();
+            previousOrientation = Screen.orientation;
         }
 
         // Codigo compatible con un for each de touches entrantes en la pantalla.
